@@ -44,18 +44,21 @@ Power BI was used as the primary tool to:
 * The business brought in a total revenue of **$2.3M**, achieving a **12.47% Profit Margin** across **10K Total Orders**.
 * The **West Region** is the absolute financial powerhouse of the company, bringing in **$108.4K (37.86%)** of total profits. 
 * Conversely, the **Central Region** shows a major drop in profitability, contributing only 13.86% of total profits despite generating healthy sales volume. This is driven directly by high promotional discount rates.
-* *Visual Reference:* Detailed layout elements can be reviewed below 
+* *Visual Reference:* Detailed layout elements can be reviewed below
+  ![Executive Sales Dashboard](Executive_Sales_and_Profitability_Performance.png)
 
 ### 2. Customer Behavior & Segment Analysis
 * The **Consumer Segment** is our primary commercial driver, making up **50.56% ($1.2M)** of the total customer revenue.
 * A deeper look into high-value clients revealed a critical business risk: our top customer by revenue, *Sean Miller* ($25,043.1 in revenue), actually has a negative profit margin of **-7.91%**. This proves that high sales volumes do not always bring high profits.
-* *Visual Reference:* Segment breakdowns and customer metrics are visible below 
+* *Visual Reference:* Segment breakdowns and customer metrics are visible below
+  ![Customer Behavior Dashboard](Customer_Behavior_and_Segment_Analysis.png)
 
 ### 3. Discount Impact & Margin Leakage Analysis
 * The store maintains an average discount rate of **15.62%**, which has led to **-$155.77K in heavy discount losses**.
 * **Tables** are the single largest source of profit leakage in the company. Aggressive promotions (an average discount of 26.13%) resulted in a net loss of **-$17,725.5**. 
 * **Bookcases** are also heavily losing money, experiencing a net loss of **-$3,472.6** due to a high 21.11% average discount rate.
 * *Visual Reference:* The full financial audit grid is showcased below 
+![Discount Leakage Dashboard](Discount_Impact_and_Margin_Leakage_Analysis.png)
 
 ## Strategic Recommendations
 
